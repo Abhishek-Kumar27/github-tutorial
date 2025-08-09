@@ -1,5 +1,5 @@
-# This is my first Git repository!
+# first Git repositiory -Demo
+This is my first Git repository!
+Author-Abhishek kumar 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
